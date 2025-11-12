@@ -7,4 +7,6 @@ Central hub for all my Haskell experiments, projects, and study notes. Includes 
 ![stars](https://img.shields.io/github/stars/agneay/DEFAULT_TEMPLATE?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/DEFAULT_TEMPLATE?style=for-the-badge)
 
+![Haskell Logo](./haskell%20img.png)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
