@@ -1,7 +1,7 @@
-data Person = Person{
-  name :: String,
-  age :: Int
-}
+data Person = Person
+  { name :: String,
+    age :: Int
+  }
 
-checkAge:: Person -> Bool
-checkAge p =(age p) >=18
+checkAge :: Person -> Bool
+checkAge p = (age p) >= 18
