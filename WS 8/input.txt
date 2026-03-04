@@ -1,0 +1,11 @@
+Functional programming is powerful. Functional programming is expressive.
+Immutability makes systems predictable and reliable.
+
+Haskell encourages pure functions and lazy evaluation.
+Lazy evaluation allows programs to handle large data efficiently.
+
+Programming with immutability prevents many common bugs.
+Functional programming promotes clarity, safety, and composability.
+
+The more you practice programming, the better you understand programming.
+Practice leads to mastery. Mastery leads to confidence.
