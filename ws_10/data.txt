@@ -1,0 +1,3 @@
+Haskell is a functional programming language.
+It is strongly typed and pure.
+Searching words in files is a common task.

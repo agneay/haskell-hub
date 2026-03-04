@@ -1,0 +1,5 @@
+Haskell is fun.
+Functional programming is powerful.
+Counting lines is easy.
+This is the fourth line.
+And this is the fifth.
